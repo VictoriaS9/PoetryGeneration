@@ -3,7 +3,7 @@ import gpt_2_simple as gpt2
 import sys
 
 def main():
-    filename = "/home/orest/Desktop/poems.txt"
+    filename = "/home/Lenovo/Desktop/poems.txt"
     if len(sys.argv) > 1:
         filename = sys.argv[1]
     else:
